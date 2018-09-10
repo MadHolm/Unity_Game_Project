@@ -1,0 +1,400 @@
+fileFormatVersion: 2
+guid: a5c8b4549f188f14fbbd5768c9c814ec
+timeCreated: 1516063113
+licenseType: Free
+ModelImporter:
+  serializedVersion: 22
+  fileIDToRecycleName:
+    100000: //RootNode
+    100002: Base Human
+    100004: Base HumanHead
+    100006: Base HumanLCalf
+    100008: Base HumanLCollarbone
+    100010: Base HumanLFingers1
+    100012: Base HumanLFingers2
+    100014: Base HumanLFingers3
+    100016: Base HumanLFoot
+    100018: Base HumanLForearm
+    100020: Base HumanLIndex1
+    100022: Base HumanLIndex2
+    100024: Base HumanLIndex3
+    100026: Base HumanLPalm
+    100028: Base HumanLPlatform
+    100030: Base HumanLThigh
+    100032: Base HumanLThumb1
+    100034: Base HumanLThumb2
+    100036: Base HumanLUpperarm
+    100038: Base HumanNeck
+    100040: Base HumanPelvis
+    100042: Base HumanRCalf
+    100044: Base HumanRCollarbone
+    100046: Base HumanRFingers1
+    100048: Base HumanRFingers2
+    100050: Base HumanRFingers3
+    100052: Base HumanRFoot
+    100054: Base HumanRForearm
+    100056: Base HumanRibcage
+    100058: Base HumanRIndex1
+    100060: Base HumanRIndex2
+    100062: Base HumanRIndex3
+    100064: Base HumanRPalm
+    100066: Base HumanRPlatform
+    100068: Base HumanRThigh
+    100070: Base HumanRThumb1
+    100072: Base HumanRThumb2
+    100074: Base HumanRUpperarm
+    100076: Base HumanSpine1
+    100078: Base HumanSpine2
+    100080: Cylinder002
+    100082: Line001
+    100084: Line002
+    100086: Line003
+    100088: Line004
+    100090: Line005
+    100092: Line006
+    100094: Line007
+    100096: Line008
+    100098: Line009
+    100100: Line010
+    100102: Plane002
+    100104: Base HumanLIKTarget
+    100106: Base HumanRIKTarget
+    100108: Box001
+    100110: Box002
+    100112: Line011
+    100114: Camera001
+    400000: //RootNode
+    400002: Base Human
+    400004: Base HumanHead
+    400006: Base HumanLCalf
+    400008: Base HumanLCollarbone
+    400010: Base HumanLFingers1
+    400012: Base HumanLFingers2
+    400014: Base HumanLFingers3
+    400016: Base HumanLFoot
+    400018: Base HumanLForearm
+    400020: Base HumanLIndex1
+    400022: Base HumanLIndex2
+    400024: Base HumanLIndex3
+    400026: Base HumanLPalm
+    400028: Base HumanLPlatform
+    400030: Base HumanLThigh
+    400032: Base HumanLThumb1
+    400034: Base HumanLThumb2
+    400036: Base HumanLUpperarm
+    400038: Base HumanNeck
+    400040: Base HumanPelvis
+    400042: Base HumanRCalf
+    400044: Base HumanRCollarbone
+    400046: Base HumanRFingers1
+    400048: Base HumanRFingers2
+    400050: Base HumanRFingers3
+    400052: Base HumanRFoot
+    400054: Base HumanRForearm
+    400056: Base HumanRibcage
+    400058: Base HumanRIndex1
+    400060: Base HumanRIndex2
+    400062: Base HumanRIndex3
+    400064: Base HumanRPalm
+    400066: Base HumanRPlatform
+    400068: Base HumanRThigh
+    400070: Base HumanRThumb1
+    400072: Base HumanRThumb2
+    400074: Base HumanRUpperarm
+    400076: Base HumanSpine1
+    400078: Base HumanSpine2
+    400080: Cylinder002
+    400082: Line001
+    400084: Line002
+    400086: Line003
+    400088: Line004
+    400090: Line005
+    400092: Line006
+    400094: Line007
+    400096: Line008
+    400098: Line009
+    400100: Line010
+    400102: Plane002
+    400104: Base HumanLIKTarget
+    400106: Base HumanRIKTarget
+    400108: Box001
+    400110: Box002
+    400112: Line011
+    400114: Camera001
+    2300000: Cylinder002
+    2300002: Base HumanHead
+    2300004: Base HumanLCalf
+    2300006: Base HumanLCollarbone
+    2300008: Base HumanLFingers1
+    2300010: Base HumanLFingers2
+    2300012: Base HumanLFingers3
+    2300014: Base HumanLFoot
+    2300016: Base HumanLForearm
+    2300018: Base HumanLIndex1
+    2300020: Base HumanLIndex2
+    2300022: Base HumanLIndex3
+    2300024: Base HumanLPalm
+    2300026: Base HumanLThigh
+    2300028: Base HumanLThumb1
+    2300030: Base HumanLThumb2
+    2300032: Base HumanLUpperarm
+    2300034: Base HumanNeck
+    2300036: Base HumanPelvis
+    2300038: Base HumanRCalf
+    2300040: Base HumanRCollarbone
+    2300042: Base HumanRFingers1
+    2300044: Base HumanRFingers2
+    2300046: Base HumanRFingers3
+    2300048: Base HumanRFoot
+    2300050: Base HumanRForearm
+    2300052: Base HumanRibcage
+    2300054: Base HumanRIndex1
+    2300056: Base HumanRIndex2
+    2300058: Base HumanRIndex3
+    2300060: Base HumanRPalm
+    2300062: Base HumanRThigh
+    2300064: Base HumanRThumb1
+    2300066: Base HumanRThumb2
+    2300068: Base HumanRUpperarm
+    2300070: Base HumanSpine1
+    2300072: Base HumanSpine2
+    2300074: Box001
+    2300076: Box002
+    2300078: Line011
+    3300000: Cylinder002
+    3300002: Base HumanHead
+    3300004: Base HumanLCalf
+    3300006: Base HumanLCollarbone
+    3300008: Base HumanLFingers1
+    3300010: Base HumanLFingers2
+    3300012: Base HumanLFingers3
+    3300014: Base HumanLFoot
+    3300016: Base HumanLForearm
+    3300018: Base HumanLIndex1
+    3300020: Base HumanLIndex2
+    3300022: Base HumanLIndex3
+    3300024: Base HumanLPalm
+    3300026: Base HumanLThigh
+    3300028: Base HumanLThumb1
+    3300030: Base HumanLThumb2
+    3300032: Base HumanLUpperarm
+    3300034: Base HumanNeck
+    3300036: Base HumanPelvis
+    3300038: Base HumanRCalf
+    3300040: Base HumanRCollarbone
+    3300042: Base HumanRFingers1
+    3300044: Base HumanRFingers2
+    3300046: Base HumanRFingers3
+    3300048: Base HumanRFoot
+    3300050: Base HumanRForearm
+    3300052: Base HumanRibcage
+    3300054: Base HumanRIndex1
+    3300056: Base HumanRIndex2
+    3300058: Base HumanRIndex3
+    3300060: Base HumanRPalm
+    3300062: Base HumanRThigh
+    3300064: Base HumanRThumb1
+    3300066: Base HumanRThumb2
+    3300068: Base HumanRUpperarm
+    3300070: Base HumanSpine1
+    3300072: Base HumanSpine2
+    3300074: Box001
+    3300076: Box002
+    3300078: Line011
+    4300000: Plane002
+    4300002: Cylinder002
+    4300004: Base HumanPelvis
+    4300006: Base HumanLThigh
+    4300008: Base HumanLCalf
+    4300010: Base HumanLFoot
+    4300012: Base HumanRThigh
+    4300014: Base HumanRCalf
+    4300016: Base HumanRFoot
+    4300018: Base HumanSpine1
+    4300020: Base HumanSpine2
+    4300022: Base HumanRibcage
+    4300024: Base HumanLCollarbone
+    4300026: Base HumanLUpperarm
+    4300028: Base HumanLForearm
+    4300030: Base HumanLPalm
+    4300032: Base HumanLThumb1
+    4300034: Base HumanLThumb2
+    4300036: Base HumanLIndex1
+    4300038: Base HumanLIndex2
+    4300040: Base HumanLIndex3
+    4300042: Base HumanLFingers1
+    4300044: Base HumanLFingers2
+    4300046: Base HumanLFingers3
+    4300048: Base HumanRCollarbone
+    4300050: Base HumanRUpperarm
+    4300052: Base HumanRForearm
+    4300054: Base HumanRPalm
+    4300056: Base HumanRThumb1
+    4300058: Base HumanRThumb2
+    4300060: Base HumanRIndex1
+    4300062: Base HumanRIndex2
+    4300064: Base HumanRIndex3
+    4300066: Base HumanRFingers1
+    4300068: Base HumanRFingers2
+    4300070: Base HumanRFingers3
+    4300072: Base HumanNeck
+    4300074: Base HumanHead
+    4300076: Box001
+    4300078: Line011
+    4300080: Box002
+    7400000: AnimationIDLE
+    9500000: //RootNode
+    11100000: //RootNode
+    13700000: Plane002
+  externalObjects:
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: 02 - Default
+    second: {fileID: 2100000, guid: 0ed3455ff1a284648a4dad0333f7908f, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: 03 - Default
+    second: {fileID: 2100000, guid: 0ab41bc5efc578d43919b7a1d64df21c, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: 04 - Default
+    second: {fileID: 2100000, guid: bde9638a448dedc4d99f9d8a7db946df, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: 05 - Default
+    second: {fileID: 2100000, guid: b7bd215b0d8ab284499fb81ffe061b6f, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: 07 - Default
+    second: {fileID: 2100000, guid: 692f9a5629c699f47987ce0dfb634ee7, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: 08 - Default
+    second: {fileID: 2100000, guid: a757d4f9f3233c94c9d47487a8da073e, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: 09 - Default
+    second: {fileID: 2100000, guid: a98ba44a387a228419ed4376c770958f, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: 16 - Default
+    second: {fileID: 2100000, guid: 94208b945624adc46831101434e453fa, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: No Name
+    second: {fileID: 2100000, guid: 617671fa04d71c846b8c9365d99d1fbe, type: 2}
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+    materialLocation: 0
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    importAnimatedCustomProperties: 0
+    animationCompression: 3
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    extraUserProperties: []
+    clipAnimations:
+    - serializedVersion: 16
+      name: AnimationIDLE
+      takeName: Take 001
+      firstFrame: 0
+      lastFrame: 100
+      wrapMode: 2
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 1
+      hasAdditiveReferencePose: 0
+      loopTime: 1
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask: []
+      maskType: 3
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 0
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    importVisibility: 1
+    importBlendShapes: 1
+    importCameras: 1
+    importLights: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+    normalCalculationMode: 4
+  importAnimation: 1
+  copyAvatar: 1
+  humanDescription:
+    serializedVersion: 2
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    rootMotionBoneRotation: {x: 0, y: 0, z: 0, w: 1}
+    hasTranslationDoF: 0
+    hasExtraRoot: 1
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {fileID: 9000000, guid: ed6e1c75e01c86c4f84b8d606ca7b5f5,
+    type: 3}
+  animationType: 2
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

@@ -1,0 +1,238 @@
+fileFormatVersion: 2
+guid: 2bcda70c62d30b844b265aa5210fe0ea
+timeCreated: 1519395105
+licenseType: Free
+ModelImporter:
+  serializedVersion: 22
+  fileIDToRecycleName:
+    100000: Base Human
+    100002: Base HumanHead
+    100004: Base HumanLCalf
+    100006: Base HumanLCollarbone
+    100008: Base HumanLFingers1
+    100010: Base HumanLFingers2
+    100012: Base HumanLFingers3
+    100014: Base HumanLFoot
+    100016: Base HumanLForearm
+    100018: Base HumanLIKTarget
+    100020: Base HumanLIndex1
+    100022: Base HumanLIndex2
+    100024: Base HumanLIndex3
+    100026: Base HumanLPalm
+    100028: Base HumanLPlatform
+    100030: Base HumanLThigh
+    100032: Base HumanLThumb1
+    100034: Base HumanLThumb2
+    100036: Base HumanLUpperarm
+    100038: Base HumanNeck
+    100040: Base HumanPelvis
+    100042: Base HumanRCalf
+    100044: Base HumanRCollarbone
+    100046: Base HumanRFingers1
+    100048: Base HumanRFingers2
+    100050: Base HumanRFingers3
+    100052: Base HumanRFoot
+    100054: Base HumanRForearm
+    100056: Base HumanRibcage
+    100058: Base HumanRIKTarget
+    100060: Base HumanRIndex1
+    100062: Base HumanRIndex2
+    100064: Base HumanRIndex3
+    100066: Base HumanRPalm
+    100068: Base HumanRPlatform
+    100070: Base HumanRThigh
+    100072: Base HumanRThumb1
+    100074: Base HumanRThumb2
+    100076: Base HumanRUpperarm
+    100078: Base HumanSpine1
+    100080: Base HumanSpine2
+    100082: Box001
+    100084: Box002
+    100086: Camera001
+    100088: Cylinder002
+    100090: Line011
+    100092: //RootNode
+    100094: Plane002
+    400000: Base Human
+    400002: Base HumanHead
+    400004: Base HumanLCalf
+    400006: Base HumanLCollarbone
+    400008: Base HumanLFingers1
+    400010: Base HumanLFingers2
+    400012: Base HumanLFingers3
+    400014: Base HumanLFoot
+    400016: Base HumanLForearm
+    400018: Base HumanLIKTarget
+    400020: Base HumanLIndex1
+    400022: Base HumanLIndex2
+    400024: Base HumanLIndex3
+    400026: Base HumanLPalm
+    400028: Base HumanLPlatform
+    400030: Base HumanLThigh
+    400032: Base HumanLThumb1
+    400034: Base HumanLThumb2
+    400036: Base HumanLUpperarm
+    400038: Base HumanNeck
+    400040: Base HumanPelvis
+    400042: Base HumanRCalf
+    400044: Base HumanRCollarbone
+    400046: Base HumanRFingers1
+    400048: Base HumanRFingers2
+    400050: Base HumanRFingers3
+    400052: Base HumanRFoot
+    400054: Base HumanRForearm
+    400056: Base HumanRibcage
+    400058: Base HumanRIKTarget
+    400060: Base HumanRIndex1
+    400062: Base HumanRIndex2
+    400064: Base HumanRIndex3
+    400066: Base HumanRPalm
+    400068: Base HumanRPlatform
+    400070: Base HumanRThigh
+    400072: Base HumanRThumb1
+    400074: Base HumanRThumb2
+    400076: Base HumanRUpperarm
+    400078: Base HumanSpine1
+    400080: Base HumanSpine2
+    400082: Box001
+    400084: Box002
+    400086: Camera001
+    400088: Cylinder002
+    400090: Line011
+    400092: //RootNode
+    400094: Plane002
+    2300000: Box001
+    2300002: Box002
+    2300004: Cylinder002
+    2300006: Line011
+    3300000: Box001
+    3300002: Box002
+    3300004: Cylinder002
+    3300006: Line011
+    4300000: Plane002
+    4300002: Cylinder002
+    4300004: Box001
+    4300006: Line011
+    4300008: Box002
+    9500000: //RootNode
+    13700000: Plane002
+  externalObjects:
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: 02 - Default
+    second: {fileID: 2100000, guid: c6d07e7776bce45469cdbb327e7daa30, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: 03 - Default
+    second: {fileID: 2100000, guid: 5208f46a82c76d147a212b4ac208e1a0, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: 04 - Default
+    second: {fileID: 2100000, guid: ec3e54e8030a2b847b5efdf776804eea, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: 05 - Default
+    second: {fileID: 2100000, guid: c49f7f69ca19e81449819651f23ce6b0, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: 07 - Default
+    second: {fileID: 2100000, guid: 3e21ee6385410174eabc5bed689a3f42, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: 08 - Default
+    second: {fileID: 2100000, guid: 28dde9b96f92a15489e1cef91dfc052c, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: 09 - Default
+    second: {fileID: 2100000, guid: 54ee4593a75fbd84eace1ddc8f693aa9, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: No Name
+    second: {fileID: 2100000, guid: 8fa32e950a276f7409de4db2bc3e29eb, type: 2}
+  materials:
+    importMaterials: 0
+    materialName: 0
+    materialSearch: 1
+    materialLocation: 0
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    importAnimatedCustomProperties: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    extraUserProperties: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    importVisibility: 1
+    importBlendShapes: 1
+    importCameras: 1
+    importLights: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    preserveHierarchy: 0
+    indexFormat: 0
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+    normalCalculationMode: 4
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    serializedVersion: 2
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    rootMotionBoneRotation: {x: 0, y: 0, z: 0, w: 1}
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 2
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
