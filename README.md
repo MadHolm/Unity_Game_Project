@@ -1,4 +1,4 @@
-#CONTROL SETTING
+# CONTROL SETTING
 
 Mouse - look around
 
