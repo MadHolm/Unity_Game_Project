@@ -173,21 +173,21 @@ public class PlayerController : MonoBehaviour
 
 		if (Input.GetKeyDown ("space")) {
 
-			transform.Translate (Vector3.up * 200 * speed * Time.deltaTime);
+			//transform.Translate (Vector3.up * 200 * speed * Time.deltaTime);
 
-			//if (anim.GetBool ("DrawWeapon")) {
+			if (anim.GetBool ("DrawWeapon")) {
 				
-				//anim.SetBool ("DrawWeapon", false);
+				anim.SetBool ("DrawWeapon", false);
 			
-			//} else {
+			} else {
 
-				//anim.SetBool ("DrawWeapon", true);
+				anim.SetBool ("DrawWeapon", true);
 
-				//anim.SetBool ("IsRunning", false);
+				anim.SetBool ("IsRunning", false);
 
-				//translation = 0;
+				translation = 0;
 
-			//}
+			}
 
 		}
 			
