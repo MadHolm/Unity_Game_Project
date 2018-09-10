@@ -2,6 +2,6 @@
 
 Mouse - look around
 
-Keyboard - move around
+WSAD - move around
 
 Space - draw weapon (buggy!)
